@@ -1,0 +1,105 @@
+.cucu {
+    background: url(images/fond\ 3.jpg);
+    background-size: unset;
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.ira {
+    background: rgb(0, 0, 121);
+}
+.todox {
+    width: 960px;
+    margin: 30px auto;
+    background: darkblue;
+    border: ridge 3px rgb(0, 0, 109);
+}
+.ira li {
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pie {
+    clear: both;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sec {
+    margin: 20px;
+    width: 600px;
+    float: left;
+}
+.ladito {
+    width: 300px;
+    margin: 20px 0;
+    float: left;
+}
+body {
+    text-align: center;
+}
+article {
+    background-color: rgb(0, 0, 175);
+    padding: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid 3px rgb(0, 0, 112);
+    font-size: 12px;
+}
+#tis {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#uuu1 {
+    background: rgb(0, 0, 175);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding: 3px;
+    border: solid 3px rgb(0, 0, 112);
+}
+p {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+a {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+.HIStory {
+    background: rgb(129, 61, 61);
+}
+.Offthewall {
+    background: rgb(156, 115, 115);
+}
+.Thriller {
+    background: rgb(117, 88, 88);
+}
+.Xscape {
+    background-color: goldenrod;
+}
+.btn {
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 10px 10px;
+    display: inline-block;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+    box-shadow: 0 3px 0 rgba(0,0,0,0.5);
+}
+.btn-green {
+    background-color: yellowgreen;
+}
+.btn-green:hover {
+    background-color: rgb(132, 175, 46);
+}
+.btn-green:active {
+    background-color: rgb(240, 255, 209);
+    color: black;
+}
