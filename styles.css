@@ -121,3 +121,26 @@ a {
     padding: 3px;
     border: dashed 3px rgb(0, 0, 112);
 }
+#uuu4 {
+    background: rgb(0, 0, 175);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding: 3px;
+    border: dashed 3px rgb(0, 0, 112);
+}
+.links {
+    border: dashed 3px rgb(0, 0, 112);
+    margin: 5px;
+    text-decoration: none;
+}
+.links2 {
+    border: dashed 3px rgb(0, 0, 112);
+    margin: 5px;
+    text-decoration: none;
+}
+.links3 {
+    border: dashed 3px rgb(0, 0, 112);
+    margin: 5px;
+    text-decoration: none;
+}
