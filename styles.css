@@ -87,6 +87,12 @@ a {
 .Xscape {
     background-color: goldenrod;
 }
+.Bad {
+    background-color: brown;
+}
+.Dan {
+    background-color: rgb(199, 162, 114);
+}
 .btn {
     text-decoration: none;
     border-radius: 3px;
