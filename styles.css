@@ -105,3 +105,19 @@ a {
     background-color: rgb(240, 255, 209);
     color: black;
 }
+#uuu2 {
+    background: rgb(0, 0, 175);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding: 3px;
+    border: dashed 3px rgb(0, 0, 112);
+}
+#uuu3 {
+    background: rgb(0, 0, 175);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding: 3px;
+    border: dashed 3px rgb(0, 0, 112);
+}
