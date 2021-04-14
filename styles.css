@@ -17,6 +17,7 @@ h1 {
     margin: 30px auto;
     background: darkblue;
     border: ridge 3px rgb(0, 0, 109);
+    border-radius: 20px;
 }
 .ira li {
     list-style: none;
@@ -50,6 +51,7 @@ article {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: solid 3px rgb(0, 0, 112);
     font-size: 12px;
+    border-radius: 6px;
 }
 #tis {
     color: white;
@@ -61,7 +63,7 @@ article {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     padding: 3px;
-    border: solid 3px rgb(0, 0, 112);
+    border: dashed 3px rgb(0, 0, 112);
 }
 p {
     color: white;
