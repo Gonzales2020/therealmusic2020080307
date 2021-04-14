@@ -90,9 +90,6 @@ a {
 .Bad {
     background-color: brown;
 }
-.ba {
-    background-color: rgb(99, 37, 37);
-}
 .Dan {
     background-color: rgb(199, 162, 114);
 }
@@ -152,4 +149,7 @@ a {
     border: dashed 3px rgb(0, 0, 112);
     margin: 5px;
     text-decoration: none;
+}
+.ba {
+    background-color: rgb(99, 37, 37);
 }
