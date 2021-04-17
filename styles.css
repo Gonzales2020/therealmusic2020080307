@@ -1,6 +1,8 @@
 .cucu {
-    background: url(fond\ 3.jpg);
-    background-size: unset;
+    background: url(sdd.jpg);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     margin: 0px;
     padding: 0px;
     height: 100vh;
@@ -15,9 +17,9 @@ h1 {
 .todox {
     width: 960px;
     margin: 30px auto;
-    background: darkblue;
-    border: ridge 3px rgb(0, 0, 109);
-    border-radius: 20px;
+    background-color: darkblue;
+    border: solid 3px darkblue;
+    border-radius: 10px;
 }
 .ira li {
     list-style: none;
