@@ -7,6 +7,10 @@
     padding: 0px;
     height: 100vh;
 }
+.imgs {
+    width: 30px;
+    height: 30px;
+}
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
