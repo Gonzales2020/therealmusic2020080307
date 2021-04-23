@@ -68,6 +68,16 @@ article {
     border-radius: 6px;
     margin: 3px;
 }
+.fondd {
+    background: linear-gradient(to bottom right, rgb(48, 48, 48), #dbdbdb);
+    padding: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid 1px rgb(58, 58, 58);
+    font-size: 12px;
+    border-radius: 6px;
+    margin: 3px;
+}
 #tis {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -110,20 +120,36 @@ a {
 }
 .btn {
     text-decoration: none;
-    border-radius: 3px;
+    border-radius: 15px;
     padding: 10px 10px;
     display: inline-block;
     text-shadow: 0 1px 0 rgba(255,255,255,0.5);
     box-shadow: 0 3px 0 rgba(0,0,0,0.5);
+    background: linear-gradient(to bottom right, rgb(155, 211, 44), rgb(230, 255, 175));
 }
-.btn-green {
-    background-color: yellowgreen;
+
+.btn:hover {
+    background: linear-gradient(to bottom right, rgb(200, 248, 103), rgb(244, 255, 221));
 }
-.btn-green:hover {
-    background-color: rgb(132, 175, 46);
+.btn:active {
+    background: linear-gradient(to bottom right, rgb(248, 255, 233), rgb(244, 255, 221));
+    color: black;
 }
-.btn-green:active {
-    background-color: rgb(240, 255, 209);
+.btn1 {
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px 10px;
+    display: inline-block;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+    box-shadow: 0 3px 0 rgba(0,0,0,0.5);
+    background: linear-gradient(to bottom right, skyblue, white);
+}
+
+.btn1:hover {
+    background: linear-gradient(to bottom right, rgb(176, 230, 252), white);
+}
+.btn1:active {
+    background: linear-gradient(to bottom right, rgb(236, 250, 255), white);
     color: black;
 }
 #uuu2 {
