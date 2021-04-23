@@ -151,31 +151,138 @@ a {
     border: dashed 3px rgb(0, 0, 112);
 }
 .links {
-    border: dashed 3px rgb(255, 0, 0);
+    border: solid 2px rgb(255, 0, 0);
+    border-radius: 3px;
+    display: inline-block;
     margin: 5px;
     text-decoration: none;
     background-color: crimson;
+    padding: 2px 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:unset;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+    box-shadow: 0 3px 0 rgba(0,0,0,0.5);
+}
+.links:hover {
+    background: rgb(221, 42, 78);
+    border: solid 2px rgb(255, 52, 52);
+}
+.links:active {
+    background: rgb(255, 201, 212);
+    border: solid 2px rgb(255, 225, 225);
+    color: black;
 }
 .links2 {
-    border: dashed 3px rgb(255, 0, 0);
+    border: solid 2px rgb(255, 0, 0);
+    border-radius: 3px;
+    display: inline-block;
     margin: 5px;
     text-decoration: none;
     background-color: crimson;
+    padding: 2px 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:unset;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+    box-shadow: 0 3px 0 rgba(0,0,0,0.5);
+}
+.links2:hover {
+    background: rgb(221, 42, 78);
+    border: solid 2px rgb(255, 52, 52);
+}
+.links2:active {
+    background: rgb(255, 201, 212);
+    border: solid 2px rgb(255, 225, 225);
+    color: black;
 }
 .links3 {
-    border: dashed 3px rgb(255, 0, 0);
+    border: solid 2px rgb(255, 0, 0);
+    border-radius: 3px;
+    display: inline-block;
     margin: 5px;
     text-decoration: none;
     background-color: crimson;
+    padding: 2px 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:unset;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+    box-shadow: 0 3px 0 rgba(0,0,0,0.5);
+}
+.links3:hover {
+    background: rgb(221, 42, 78);
+    border: solid 2px rgb(255, 52, 52);
+}
+.links3:active {
+    background: rgb(255, 201, 212);
+    border: solid 2px rgb(255, 225, 225);
+    color: black;
 }
 .Bad25 {
     background-color: rgb(99, 37, 37);
 }
 .links4 {
-    border: dashed 3px rgb(0, 26, 255);
+    border: solid 2px rgb(0, 26, 255);
+    border-radius: 3px;
+    display: inline-block;
     margin: 5px;
     text-decoration: none;
     background-color: rgb(29, 42, 216);
+    padding: 2px 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:unset;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+    box-shadow: 0 3px 0 rgba(0,0,0,0.5);
+}
+.links4:hover {
+    background: rgb(65, 75, 211);
+    border: solid 2px rgb(60, 79, 250);
+}
+.links4:active {
+    background: rgb(175, 179, 236);
+    border: solid 2px rgb(192, 199, 252);
+    color: black;
+}
+.links5 {
+    border: solid 2px rgb(255, 0, 0);
+    border-radius: 3px;
+    display: inline-block;
+    margin: 5px;
+    text-decoration: none;
+    background-color: crimson;
+    padding: 2px 67px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:unset;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+    box-shadow: 0 3px 0 rgba(0,0,0,0.5);
+}
+.links5:hover {
+    background: rgb(221, 42, 78);
+    border: solid 2px rgb(255, 52, 52);
+}
+.links5:active {
+    background: rgb(255, 201, 212);
+    border: solid 2px rgb(255, 225, 225);
+    color: black;
+}
+.links6 {
+    border: solid 2px rgb(255, 157, 37);
+    border-radius: 3px;
+    display: inline-block;
+    margin: 5px;
+    text-decoration: none;
+    background-color: darkorange;
+    padding: 2px 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+    box-shadow: 0 3px 0 rgba(0,0,0,0.5);
+}
+.links6:hover {
+    background: rgb(255, 157, 38);
+    border: solid 2px rgb(255, 174, 75);
+}
+.links6:active {
+    background: rgb(252, 229, 203);
+    border: solid 2px rgb(250, 241, 230);
+    color: black;
 }
 .close {
     text-decoration: none;
