@@ -24,13 +24,13 @@ h2 {
     color: white;
 }
 .ira {
-    background: rgb(0, 0, 121);
+    background: linear-gradient(to top right, rgb(0, 0, 107),rgb(51, 51, 126));
 }
 .todox {
     width: 960px;
     margin: 30px auto;
-    background-color: darkblue;
-    border: solid 3px darkblue;
+    background: linear-gradient(to bottom right, darkblue, rgb(71, 71, 172));
+    border: solid 1px darkblue;
     border-radius: 5px;
 }
 .ira li {
@@ -101,22 +101,35 @@ a {
     font-size: 12px;
 }
 .HIStory {
-    background: rgb(129, 61, 61);
+    background: linear-gradient(to bottom right, rgb(129, 61, 61), rgb(179, 134, 134));
+    border: solid 2px rgb(110, 55, 55);
+    border-radius: 3px;
+
 }
 .Offthewall {
-    background: rgb(156, 115, 115);
+    background: linear-gradient(to bottom right, rgb(156, 115, 115), rgb(216, 191, 191));
+    border: solid 2px rgb(138, 99, 99);
+    border-radius: 3px;
 }
 .Thriller {
-    background: rgb(117, 88, 88);
+    background: linear-gradient(to bottom right, rgb(122, 85, 85), rgb(192, 156, 156));
+    border: solid 2px rgb(97, 74, 74);
+    border-radius: 3px;
 }
 .Xscape {
-    background-color: goldenrod;
+    background: linear-gradient(to bottom right, goldenrod, rgb(255, 226, 153));
+    border: solid 2px rgb(189, 143, 27);
+    border-radius: 3px;
 }
 .Bad {
-    background-color: brown;
+    background: linear-gradient(to bottom right, brown, rgb(161, 102, 102));
+    border: solid 2px rgb(124, 32, 32);
+    border-radius: 3px;
 }
 .Dan {
-    background-color: rgb(199, 162, 114);
+    background: linear-gradient(to bottom right, rgb(199, 162, 114), rgb(206, 189, 168));
+    border: solid 2px rgb(197, 151, 91);
+    border-radius: 3px;
 }
 .btn {
     text-decoration: none;
@@ -243,7 +256,9 @@ a {
     color: black;
 }
 .Bad25 {
-    background-color: rgb(99, 37, 37);
+    background: linear-gradient(to bottom right, rgb(99, 37, 37), rgb(151, 100, 100));
+    border: solid 2px rgb(73, 27, 27);
+    border-radius: 3px;
 }
 .links4 {
     border: solid 2px rgb(0, 26, 255);
@@ -405,5 +420,7 @@ a {
     background: rgb(73, 23, 23);
 }
 .Music {
-    background: darkslategrey;
+    background: linear-gradient(to bottom right, darkslategray, rgb(150, 172, 172));
+    border: solid 2px rgb(0, 83, 83);
+    border-radius: 3px;
 }
